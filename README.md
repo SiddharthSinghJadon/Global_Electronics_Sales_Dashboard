@@ -10,7 +10,8 @@ An end-to-end **Excel business analytics project** analyzing global electronics 
 
 ## Dashboard Preview
 
-![Global Electronics Sales Dashboard](./Screenshots/dashboard.png)
+<img width="2559" height="1430" alt="dashboard" src="https://github.com/user-attachments/assets/1fcf9e6f-6f47-4971-b8b9-9b3c19bbcd44" />
+
 
 The project follows a practical analyst workflow:
 
