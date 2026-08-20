@@ -1,4 +1,4 @@
-# Global Electronics Sales Analytics — Excel Dashboard
+# Global Electronics Sales Analytics - Excel Dashboard
 
 ## Overview
 
@@ -36,11 +36,11 @@ The project uses a **Global Electronics retail dataset** with transactional sale
 
 ### Main tables
 
-- **Sales** — transaction-level sales data
-- **Customers** — customer and geographic information
-- **Products** — product, category, brand, and subcategory information
-- **Stores** — store information
-- **Exchange_Rates** — currency/exchange-rate information
+- **Sales** - transaction-level sales data
+- **Customers** - customer and geographic information
+- **Products** - product, category, brand, and subcategory information
+- **Stores** - store information
+- **Exchange_Rates** - currency/exchange-rate information
 
 ### Key Sales Fields
 
