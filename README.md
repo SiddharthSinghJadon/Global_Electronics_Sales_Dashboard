@@ -22,7 +22,7 @@ The analysis answers five core questions:
 
 ## Dataset
 
-The project uses a **Global Electronics retail dataset** with transactional sales data and supporting reference tables.
+The project uses a **Global Electronics retail dataset** with transactional sales data and supporting reference tables and was imported/downloaded from Maven Analytics.
 
 ### Main tables
 
