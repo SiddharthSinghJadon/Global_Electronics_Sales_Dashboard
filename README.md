@@ -4,6 +4,10 @@
 
 An end-to-end **Excel business analytics project** analyzing global electronics sales performance across customers, products, categories, markets, and time periods.
 
+## Project File
+
+[Download the Excel Analysis Workbook](./Global_Electronics_Analytics.xlsx)
+
 The project follows a practical analyst workflow:
 
 **Data audit → Data cleaning → Analytical calculations → Data modeling → KPI analysis → Segmentation → Dashboard → Business insights**
