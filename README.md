@@ -8,6 +8,10 @@ An end-to-end **Excel business analytics project** analyzing global electronics 
 
 [Download the Excel Analysis Workbook](./Global_Electronics_Analytics.xlsx)
 
+## Dashboard Preview
+
+![Global Electronics Sales Dashboard](./Screenshots/dashboard.png)
+
 The project follows a practical analyst workflow:
 
 **Data audit → Data cleaning → Analytical calculations → Data modeling → KPI analysis → Segmentation → Dashboard → Business insights**
